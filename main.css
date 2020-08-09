@@ -1,0 +1,18 @@
+.rounded-circle {
+    height: 25px;
+    width: 25px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: block;
+  }
+
+  img {
+      height: 50px;
+      width: 50px;
+  }
+
+  .material-icons {
+      float: right;
+      position: relative;
+      bottom: 30px;
+  }
